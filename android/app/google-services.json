@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1020167686439",
+    "project_id": "phone-otp-auth-2e62b",
+    "storage_bucket": "phone-otp-auth-2e62b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1020167686439:android:b77aed63ab7dc333674102",
+        "android_client_info": {
+          "package_name": "com.example.online_munim"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCGbO5E2h9xbIpfl3hXu64ylxgrcWOuC9A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
